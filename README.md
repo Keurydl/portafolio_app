@@ -52,6 +52,7 @@ The easiest way to view the app is by downloading the compiled APK file directly
 ---
 
 ## View:
+<img width="456" height="1010" alt="image" src="https://github.com/user-attachments/assets/0f217b15-2a09-484e-97ad-b36fe8c0abc4" />
 
 
 ## 👨‍💻 About Me
