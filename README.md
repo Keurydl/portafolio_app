@@ -18,7 +18,6 @@
 - **🐙 GitHub Integration:** Automatically fetches and displays real-time repositories directly from my GitHub profile using the GitHub API.
 - **📚 Training Section:** A dedicated area showcasing my educational background, courses, and certifications with direct links.
 - **📬 Contact Hub:** One-click integration to send emails and view my Curriculum Vitae.
-- **🌗 Theme Support:** Adapts seamlessly to the system's Light or Dark mode preferring modern, sleek colors.
 
 ---
 
@@ -41,6 +40,9 @@ The easiest way to view the app is by downloading the compiled APK file directly
 * **Packages:** `provider`, `url_launcher`, `font_awesome_flutter`, `lottie`, `google_fonts`, `http`.
 
 ---
+
+## View:
+
 
 ## 👨‍💻 About Me
 
