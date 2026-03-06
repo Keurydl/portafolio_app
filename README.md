@@ -1,16 +1,56 @@
-# portafolio_app
+<div align="center">
+  
+# 🚀 Keury Deschamps - Portfolio App
+*A modern, dynamic, and interactive portfolio built with Flutter to showcase my projects, experience, and skills.*
 
-A new Flutter project.
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](https://dart.dev/)
+[![Release](https://img.shields.io/github/v/release/Keurydl/portafolio_app?color=success&label=Latest%20Release)](https://github.com/Keurydl/portafolio_app/releases/tag/v1.0.0)
 
-## Getting Started
+</div>
 
-This project is a starting point for a Flutter application.
+<br />
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **📱 Cross-Platform Design:** Fully responsive application optimized for Android and Web environments.
+- **🎨 Lottie Splash Screen:** An elegant introductory animation greets users.
+- **🐙 GitHub Integration:** Automatically fetches and displays real-time repositories directly from my GitHub profile using the GitHub API.
+- **📚 Training Section:** A dedicated area showcasing my educational background, courses, and certifications with direct links.
+- **📬 Contact Hub:** One-click integration to send emails and view my Curriculum Vitae.
+- **🌗 Theme Support:** Adapts seamlessly to the system's Light or Dark mode preferring modern, sleek colors.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📲 Download & Installation
+
+The easiest way to view the app is by downloading the compiled APK file directly to your Android device from the Releases page.
+
+### 🤖 For Android Users
+1. Go to the [Releases page](https://github.com/Keurydl/portafolio_app/releases/tag/v1.0.0).
+2. Under "Assets", click on **`app-release.apk`** to download it.
+3. Open the downloaded file on your phone.
+   *(Note: You might need to allow "Install from unknown sources" in your settings).*
+4. Install and enjoy!
+
+---
+
+## 🛠️ Built With
+* **Framework:** [Flutter](https://flutter.dev/)
+* **Language:** [Dart](https://dart.dev/)
+* **Packages:** `provider`, `url_launcher`, `font_awesome_flutter`, `lottie`, `google_fonts`, `http`.
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Keury Deschamps**, a passionate software developer with experience in web and app development. I specialize in technologies like React, Python, and modern multiplatform development frameworks like Flutter. 
+
+📫 **Feel free to reach out:**
+* **LinkedIn:** [Keury Deschamps](https://www.linkedin.com/in/keury-david-deschamps-lopez-3891181b1/)
+* **Email:** keurydd@outlook.com
+
+<div align="center">
+  <br />
+  <sub>Made with ❤️ using Flutter</sub>
+</div>
